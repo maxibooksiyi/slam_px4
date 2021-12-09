@@ -1,4 +1,4 @@
 # slam_px4
 先配置好px4的环境，然后建立一个ros工作空间，将代码拉进去catkin_make
-运行roslaunch realsense_ros_gazebo satl.launch
+运行roslaunch realsense_ros_gazebo sitl.launch
 再运行vins_fusion即可
